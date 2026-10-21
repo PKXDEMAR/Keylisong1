@@ -1,0 +1,111 @@
+{
+  "replacement_rules": [
+    {
+      "name": "Attack1",
+      "replace_ids": [
+        12613340305
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Plusnoctonia/BaliMusic@main/BalisongAttack1.rbxm"
+    },
+    {
+      "name": "Attack2",
+      "replace_ids": [
+        12613350645
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Plusnoctonia/BaliMusic@main/BalisongAttack2.rbxm"
+    },
+    {
+      "name": "Equip",
+      "replace_ids": [
+        12613363718
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Plusnoctonia/BaliMusic@main/BalisongEquip.rbxm"
+    },
+    {
+      "name": "HeavyAttack",
+      "replace_ids": [
+        12613354440
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Plusnoctonia/BaliMusic@main/BalisongHeavyAttack.rbxm"
+    },
+    {
+      "name": "Idle",
+      "replace_ids": [
+        12613190591
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Plusnoctonia/BaliMusic@main/BalisongIdle.rbxm"
+    },
+    {
+      "name": "Inspect",
+      "replace_ids": [
+        12613329711,
+        12613320859
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Plusnoctonia/BaliMusic@main/BalisongInspect.rbxm"
+    },
+    {
+      "name": "Sprint",
+      "replace_ids": [
+        12886796453
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Plusnoctonia/BaliMusic@main/BalisongSprint.rbxm"
+    },
+    {
+      "name": "Low Res Icon",
+      "replace_ids": [
+        17160800983
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 100084654831857
+    },
+    {
+      "name": "High Res Icon",
+      "replace_ids": [
+        13197583583
+      ],
+      "mode": "id",
+      "enabled": true,
+      "with_id": 118944160521617
+    },
+    {
+      "name": "Remove",
+      "replace_ids": [
+        12482022259
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Blade",
+      "replace_ids": [
+        12482022363
+      ],
+      "mode": "id",
+      "enabled": true
+    },
+    {
+      "name": "Handle",
+      "replace_ids": [
+        12482022430
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://cdn.jsdelivr.net/gh/Plusnoctonia/BaliMusic@main/KeylisongHandle.obj"
+    }
+  ]
+}
